@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate Investment Consultants",
+  "description": "Trusted real estate investment consultancy and property advisory in DHA, Islamabad, Pakistan. Explore residential, commercial, and plot investment opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
